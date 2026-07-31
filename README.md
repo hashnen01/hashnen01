@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hashnen Belim</h1>
 
 <h3 align="center">
-B.Tech Computer Science Student | Python Developer | Machine Learning & Data Analytics Enthusiast
+B.Tech Computer Science Student | Python Developer | Building Practical AI & Data-Driven Applications
 </h3>
 
 ---
@@ -9,11 +9,10 @@ B.Tech Computer Science Student | Python Developer | Machine Learning & Data Ana
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
-- 🐍 Interested in Python, Machine Learning and Data Analytics
-- 🌱 Currently learning Flask, REST APIs and Advanced Machine Learning
-- 💡 I enjoy building projects that solve practical real-world problems
-- 🚀 Continuously improving my development and problem-solving skills
-
+- 🐍 Python Developer with experience building Machine Learning and Flask applications
+- 📊 Worked on projects involving Data Analytics, Machine Learning and REST APIs
+- 🚀 Focused on building practical software solutions for real-world problems
+- 📚 Continuously expanding knowledge in software development and AI
 ---
 
 ## 🛠️ Tech Stack
@@ -46,37 +45,26 @@ B.Tech Computer Science Student | Python Developer | Machine Learning & Data Ana
 
 ## 📌 Featured Projects
 
-- 💊 Counterfeit Medicine Risk Assessment
-- 💰 RiskLens Loan Prediction System
-- 📊 Sales Productivity Analysis
+💊 Counterfeit Medicine Risk Assessment
 
-> More real-world Machine Learning and Python projects coming soon.
+💰 RiskLens Loan Prediction System
 
----
+📊 Sales Productivity Analysis
 
-## 📈 GitHub Stats
+🛠 Additional software and Machine Learning projects are continuously being added.
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hashnen01&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashnen01&layout=compact&theme=github_dark"/>
-
-</p>
-
----
 
 ## 🎯 Current Focus
 
+- Python Development
 - Machine Learning
 - Data Analytics
-- Python Development
-- Flask Applications
-- Problem Solving & DSA
+- Flask Web Applications
+- Data Structures & Algorithms
+- > Building practical software solutions through clean code, machine learning, and continuous learning.
 
----
+Thank you for visiting my profile.
 
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+Feel free to explore my repositories to see the projects I've built.
 
