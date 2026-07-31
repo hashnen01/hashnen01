@@ -9,8 +9,8 @@ B.Tech Computer Science Student | Python Developer | Building Practical AI & Dat
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
-- 🐍 Python Developer with experience building Machine Learning and Flask applications
-- 📊 Worked on projects involving Data Analytics, Machine Learning and REST APIs
+- 🐍 Python Developer with hands-on experience in Machine Learning, Flask, and Data Analytics projects
+- 📊 Built projects involving Machine Learning, Data Analytics, REST APIs, and SQL
 - 🚀 Focused on building practical software solutions for real-world problems
 - 📚 Continuously expanding knowledge in software development and AI
 ---
@@ -51,20 +51,23 @@ B.Tech Computer Science Student | Python Developer | Building Practical AI & Dat
 
 📊 Sales Productivity Analysis
 
-🛠 Additional software and Machine Learning projects are continuously being added.
-
+🛠 More real-world software and AI projects are under development.
 
 
 ## 🎯 Current Focus
 
-- Python Development
-- Machine Learning
-- Data Analytics
-- Flask Web Applications
-- Data Structures & Algorithms
-- > Building practical software solutions through clean code, machine learning, and continuous learning.
+-Python Development
+
+-Flask Web Applications
+
+-Machine Learning
+
+-Data Analytics
+
+-Data Structures & Algorithmss
+
 
 Thank you for visiting my profile.
 
-Feel free to explore my repositories to see the projects I've built.
+Feel free to explore my repositories and   projects .
 
